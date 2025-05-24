@@ -18,7 +18,7 @@ export default function Hero() {
   Elisha Massawe – Graphic Designer
 </h1>
 
-      <p className="lead text-primary fw-bold" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.7)' }}>
+      <p className="lead text-info fw-bold" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.7)' }}>
         I create stunning designs that make your brand stand out. Whether you need a logo, flyer, or web design, I've got you covered!
         Welcome to my portfolio. I design logos, flyers, profiles, thumbnails and more!
       </p>
