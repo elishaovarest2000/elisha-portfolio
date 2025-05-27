@@ -10,7 +10,7 @@ export default function Contact() {
           <div className="col-md-6">
             <div className="card shadow-sm border-0">
               <div className="card-body">
-                <p className="text-secondary mb-2"><strong>Email:</strong> elishaellyclif@example.com</p>
+                <p className="text-secondary mb-2"><strong>Email:</strong> elishaellyclif@gmail.com</p>
                 <p className="text-secondary mb-2"><strong>Phone:</strong> +255 696 218 943</p>
                 <p className="text-secondary mb-2"><strong>Location:</strong> Dar es Salaam, Tanzania</p>
                 <p className="text-muted mt-3">Let’s work together! I’m always excited to collaborate on fresh ideas and creative projects.</p>

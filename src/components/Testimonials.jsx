@@ -13,7 +13,7 @@ export default function Testimonials() {
                 <p className="card-text text-secondary fst-italic">
                   “Elisha's design brought our brand to life. Highly recommended!”
                 </p>
-                <h6 className="card-subtitle text-muted mt-3">– A Happy Client</h6>
+                <h6 className="card-subtitle text-muted mt-3">– Stevie-CEO </h6>
               </div>
             </div>
           </div>
@@ -24,7 +24,7 @@ export default function Testimonials() {
                 <p className="card-text text-secondary fst-italic">
                   “Professional, fast, and creative. Great work!”
                 </p>
-                <h6 className="card-subtitle text-muted mt-3">– Business Owner</h6>
+                <h6 className="card-subtitle text-muted mt-3">– Brenda-Business Owner</h6>
               </div>
             </div>
           </div>
