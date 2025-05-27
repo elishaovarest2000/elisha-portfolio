@@ -27,7 +27,9 @@ const ContactForm = () => {
 
   return (
     <div className="container col-md-6 my-5">
+    
     <form onSubmit={handleSubmit(sendEmail)} className="space-y-4 p-4 bg-white rounded-lg shadow-md">
+    <h4 className="text-center mb-4">Send email</h4>
       <input
         {...register("name")}
         placeholder="Your Name"
