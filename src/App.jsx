@@ -6,7 +6,7 @@ import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
-import ContactForm from './components/contactForm';
+import ContactForm from './components/ContactForm';
 
 
 export default function App() {
