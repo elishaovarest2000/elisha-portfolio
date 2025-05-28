@@ -13,7 +13,6 @@ export default function Hero() {
         minHeight: '400px',
       }}
     >
- 
       <h1 className="display-4 fw-bold" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.7)' }}>
   Elisha Massawe – Graphic Designer
 </h1>

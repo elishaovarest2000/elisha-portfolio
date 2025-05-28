@@ -44,7 +44,17 @@ export default function Header() {
               Home
             </a>
           </li>
+         
           <li>
+            <a
+              href="#aboutMe"
+              style={{ textDecoration: 'none', color: '#333' }}
+              onClick={() => window.location.href = '#aboutMe'}
+            >
+              About Me
+            </a>
+          </li>
+            <li>
             <a
               href="#services"
               style={{ textDecoration: 'none', color: '#333' }}

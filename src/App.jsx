@@ -5,7 +5,9 @@ import Services from './components/Services';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import ContactForm from './components/ContactForm';
+import AboutMe from './components/AboutMe';
+import ContactForm from './components/contactForm';
+
 
 export default function App() {
   return (
@@ -13,13 +15,13 @@ export default function App() {
       <Header />
       <div style={{ paddingTop: '70px' }}>
         <Hero />
+        <AboutMe />
         <Services />
         <Testimonials />
         <Contact />
-         <ContactForm />
+        <ContactForm />
         <Footer />
       </div>
-    
     </>
   );
 }
