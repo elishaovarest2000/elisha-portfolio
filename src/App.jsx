@@ -9,6 +9,7 @@ import AboutMe from './components/AboutMe';
 // import BlogSection from './components/Blog';
 import ContactForm from './components/ContactForm';
 import ChatWidget from './components/ChatWidget';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 
 
