@@ -68,10 +68,10 @@ export default function Services() {
             />
             <div className="card-body text-center">
               <h5 className="card-title" style={{ fontWeight: '600' }}>
-                YouTube Thumbnails
+                Website Design
               </h5>
               <p className="card-text text-secondary">
-                Eye-catching thumbnails designed to boost your video's click-through rate.
+                Stunning website designs that provide a seamless user experience.
               </p>
             </div>
           </div>

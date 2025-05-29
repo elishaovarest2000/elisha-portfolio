@@ -6,7 +6,11 @@ import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
+// import BlogSection from './components/Blog';
 import ContactForm from './components/ContactForm';
+import ChatWidget from './components/ChatWidget';
+
+
 
 
 export default function App() {
@@ -16,7 +20,9 @@ export default function App() {
       <div style={{ paddingTop: '70px' }}>
         <Hero />
         <AboutMe />
+        {/* <BlogSection />  */}
         <Services />
+        <ChatWidget />
         <Testimonials />
         <Contact />
         <ContactForm />
